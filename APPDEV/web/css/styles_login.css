@@ -1,0 +1,26 @@
+body {
+	font-family: 'Trebuchet MS';
+	background: #E8E8E8;
+}
+.modal-footer {   border-top: 0px; }
+
+button {
+	color: black;
+	border-bottom: 50px dashed 2px;
+	border-color: black;
+}
+
+a {
+	color: #026f27;
+}
+
+a:hover {
+    color: #003000;
+    text-decoration: none;
+}
+
+#text:focus {
+    outline: none;
+    border-color: #026f27;
+    box-shadow: 0 0 10px #026f27;	
+}
